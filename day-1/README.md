@@ -49,3 +49,5 @@ A Large Language Model (LLM) is an advanced AI system trained on vast amounts of
 
 ---
 
+![Screenshot 2025-04-08 134101](https://github.com/user-attachments/assets/e28ed05e-ccd1-4b68-b2e5-9c2f2698f5d2)
+
